@@ -9,6 +9,7 @@ tags: [ vim ]
 :q!             quit without saving changes
 :w              write file
 :w {file}       write new file
+:wq             write (only when changes have been made) and exit
 :x              write file and exit
 
 # Movement
